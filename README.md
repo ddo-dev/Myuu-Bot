@@ -7,9 +7,14 @@
 
 Discord bot with multifunctionality.
 
+## COMPLETED
+-Play Music
+
+-Embedded Music Video
+
+-Commands
+
 ## TO-DO:
--Music player
+-Add More Music Control
 
--webhooks for photos 
-
--embedded videos
+-Webhooks for Photos 
